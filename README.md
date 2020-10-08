@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/cho2">
-    <img src="https://github-readme-stats.vercel.app/api?username=cho2&title_color=222&text_color=777">
+  <a href="https://https://github.com/gitasep">
+    <img src="https://github-readme-stats.vercel.app/api?username=gitasep&title_color=222&text_color=777">
   </a>
 </p>
 
