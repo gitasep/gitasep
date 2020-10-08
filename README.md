@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://https://github.com/gitasep">
+  <a href="https://github.com/gitasep">
     <img src="https://github-readme-stats.vercel.app/api?username=gitasep&title_color=222&text_color=777">
   </a>
 </p>
